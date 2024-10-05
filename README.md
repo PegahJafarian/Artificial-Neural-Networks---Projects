@@ -16,3 +16,15 @@
 
 
 4) Implementing LSTM for fake news in Tweeter dataset
+
+
+
+5) Automatically designing CNN architectures using genetic algorithm for image classification
+
+
+
+6) Convolution Neural Network for Text Mining and Natural Language Processing
+
+
+
+7) Predicting residential energy consumption using CNN-LSTM neural networks
