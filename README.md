@@ -28,3 +28,7 @@
 
 
 7) Predicting residential energy consumption using CNN-LSTM neural networks
+
+
+
+8) A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation
